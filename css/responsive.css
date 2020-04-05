@@ -1,0 +1,294 @@
+/*Author-Responsive*/
+
+/*For Desktop*/
+
+@media (min-width:992px) and (max-width:1200px){
+    
+    .row{
+        width: 970px;
+    }
+    
+    
+    .menu ul li a {
+	font-size: 18px;
+}
+    
+    .logo {
+	margin-top: 40px;
+}
+    .slider-content h1 {
+	font-size: 45px;
+	line-height: 36px;
+	margin-bottom: 7px;
+    
+    }  
+    
+    .slider-content p {
+	font-size: 23px;
+	line-height: 40px;
+	margin-bottom: 30px;
+    
+    }
+    
+    .slider-content a {
+	padding: 10px 20px;
+	font-size: 20px;
+	
+    }
+    
+    
+    
+    
+}
+
+/*For Desktop*/
+
+
+/*For Tablet Device*/
+
+@media (min-width:768px) and (max-width:991px){
+    .row{
+        width: 750px;
+    }
+    
+    
+    
+    .slider-content h1 {
+	font-size: 30px;
+	line-height: 32px;
+	margin-bottom: 7px;
+    }
+    
+    
+    .slider-content p {
+	font-size: 23px;
+	line-height: 40px;
+	margin-bottom: 30px;
+    }
+    
+    .slider-content a {
+	padding: 10px 20px;
+	font-size: 20px;
+	
+    }
+    
+    .col {
+	width: 50%;
+	float: left;
+	padding: 0 15px;
+	margin-bottom: 35px;
+    }
+    
+    
+    .single-test p {
+	font-size: 16px;
+	line-height: 30px;
+    
+    }
+    
+    
+    
+}
+
+
+/*For Tablet Device*/
+
+
+/*For Large Mobile Device*/
+
+@media (min-width:576px) and (max-width:767px){
+    
+    .row{
+        width: 530px;
+    }
+    
+    .logo {
+	float: none;
+	margin-top: 30px;
+	text-align: center;
+    
+    }
+    
+    
+    
+    .slider-content h1 {
+	font-size: 28px;
+	margin-bottom: 30px;
+    
+    }
+    
+    .slider-content p {
+	display: none;
+    
+    }
+    
+    .port-half{
+        width: 50%;
+    }
+     
+    .col {
+	width: 50%;
+	padding: 0 15px;
+	margin-bottom: 35px;
+    }
+    
+    .w-full{
+	width: 100%;
+	margin-bottom: 30px;
+    
+    }
+    
+    .owl-carousel .owl-nav button{
+        display: none;
+    }
+    
+    .col-2 {
+	width: 100%;
+	float: none;
+	padding: 0px 15px;
+	margin-bottom: 35px;
+    }
+    
+    .message button {
+	padding: 10px 30px;
+    }
+    
+    
+}
+
+/*For Large Mobile Device*/
+
+@media (min-width:320px) and (max-width:575px){
+    
+    .row{
+        width: 300px;
+    }
+    
+    .logo {
+	float: none;
+	margin-top: 30px;
+	text-align: center;
+}
+    
+    .menu {
+	float: none;
+}
+    .menu ul {
+	list-style: none;
+	text-align: center;
+}
+    
+.menu ul li a {
+	padding: 15px 20px;
+}
+    
+    .slider-content h1 {
+	display: none;
+}
+    
+    .slider-content p{
+	display: none;
+}
+    
+    .slider-content a {
+	border: 1px solid #fff;
+	padding: 5px 10px;
+	font-size: 18px;
+	font-weight: 400;
+	
+}
+    
+    .owl-carousel .owl-nav button{
+    display: none;
+    }
+    
+    .col {
+	width: 100%;
+	float: none;
+	margin-bottom: 35px;
+}
+    
+    .port-half{
+        width: 100%;
+    }
+    
+    .w-full{
+	width: 100%;
+	margin-bottom: 30px;
+    
+    }
+    
+    .single-test h3 {
+	font-size: 20px;
+	line-height: 20px;
+	margin-bottom: 20px;
+}
+    
+
+    .single-test p {
+	font-size: 14px;
+	line-height: 24px;
+}
+    
+    .single-test span {
+	color: #9a8faf;
+	font-size: 13px;
+	line-height: 5px;
+	display: inline-block;
+	margin-top: 14px;
+}
+    
+    .service-area {
+	padding: 30px 0px !important;
+}
+    
+    .portfolio-area {
+	padding: 30px 0px;
+}
+    
+    .team-area {
+	padding: 50px 0px;
+}
+    .pricing-section {
+	padding: 50px 0px;
+}
+    
+    .testmonia-sec {
+	padding: 40px 0px;
+}
+    
+    .footer-area {
+	padding: 50px 0px;
+}
+     .col-2 {
+	width: 100%;
+	float: none;
+	padding: 0px 15px;
+	margin-bottom: 35px;
+    }
+    
+    .address {
+	text-align: center;
+}
+    .message textarea {
+	height: 120px;
+}
+    
+    .message button {
+	padding: 5px 30px;
+    font-size: 14px;
+    }
+    
+}
+/*For Small Mobile Device*/
+
+/*For Small Mobile Device*/
+
+
+
+
+
+
+
+
+/*Author-Responsive*/
